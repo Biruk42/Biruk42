@@ -18,11 +18,11 @@ My name is Biruk and I'm a computer science student from Ethiopia.
 - Web Development
 - Film Enthusiast
 
-📫 Visit my [website](https://biruks-portfolio.netlify.app/)!
+📫 Visit my website: https://biruks-portfolio.netlify.app/
 ---
 
 ## 🌐 Socials:
-💬 Reach me by [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:kassayebiruk0@gmail.com) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biruk-kassaye) (mailto:kassayebiruk0@gmail.com)!
+💬 Reach me by [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:kassayebiruk0@gmail.com) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biruk-kassaye)
 
 ---
 
@@ -42,15 +42,9 @@ My name is Biruk and I'm a computer science student from Ethiopia.
 ---
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biruk42&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Biruk42&theme=onedark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biruk42&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Biruk42&icon=0&color=0)](https://visitcount.itsvg.in)
