@@ -9,7 +9,7 @@ My name is Biruk and I'm a computer science student from Ethiopia.
 - Exploring Machine Learning with scikit-learn
 
 ⚡️ **Work Experience:**
-- System Admin/IT Intern at HEUC
+- Network Admin Intern at HEUC
   - Providing support for network infrastructure components such as routers, switches, and firewalls.
   - Troubleshooting network connectivity issues and assisting in network configuration tasks.
   - Generating reports on system performance, security incidents, and maintenance activities.
