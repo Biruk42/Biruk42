@@ -3,22 +3,24 @@
 ---
 
 # 💫 About Me:
-My name is Biruk and I'm a computer science student from Ethiopia.
+I'm Biruk, a Computer Science graduate from Ethiopia.
 
 🚀 **What I'm Up To:**
-- Exploring Machine Learning with scikit-learn
+- Exploring Machine Learning & AI
+- Building full-stack applications
+- Currently working on an SDG-focused hackathon project
 
 ⚡️ **Work Experience:**
-- Network Admin Intern at HEUC
-  - Providing support for network infrastructure components such as routers, switches, and firewalls.
-  - Troubleshooting network connectivity issues and assisting in network configuration tasks.
-  - Generating reports on system performance, security incidents, and maintenance activities.
+- Full-stack Developer at Mereb Technologies
+- Network Administrator at Amhara Bank
+- System Administrator at HEUC.
+- Freelancer
 
 🌱 **Interests:**
 - Web Development
 - Film Enthusiast
 
-📫 Visit my website: https://biruks-portfolio.netlify.app/
+📫 Visit my website: https://birukkassayeportfolio.netlify.app/
 ---
 
 ## 🌐 Socials:
